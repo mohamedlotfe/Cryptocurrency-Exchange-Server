@@ -4,7 +4,7 @@ Users of the exchange should be able to:
 - Buy crypto for fiat
 - Sell crypto for fiat
 
-# Architecture Exercise ✨
+# 1- Architecture Exercise ✨
 Design **the high-level app architecture** for this cryptocurrency exchange
 > Q1- What services will there be ? ✨
 
@@ -22,7 +22,7 @@ Design **the high-level app architecture** for this cryptocurrency exchange
  
  > Q4- What should we do if there are not enough buy orders to fill sell orders, and vice versa ?✨
  
- > A4 - In any trading engine there can be multiple types of orders the end user has access to. Some of these include:
+ > A4 - In Order Management engine there can be multiple types of orders the end user has access to. Some of these include:
 
 	-  Limit order => That allow you to create an order with a specific price that gets filled either at the specified price better
 	-  Market order :=>  prioritize completing the order for the specified amount ignoring the price completely
