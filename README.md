@@ -7,6 +7,7 @@ Users of the exchange should be able to:
 # Architecture Exercise ✨
 Design **the high-level app architecture** for this cryptocurrency exchange
 > Q1- What services will there be ? ✨
+
 > A1 - I will you apply (use) a Microservices Architecture
     <img src="https://github.com/mohamedlotfe/Cryptocurrency-Exchange-Server/blob/main/cryptocurrency%20exchange%20Arch.png"/>
     
@@ -16,9 +17,11 @@ Design **the high-level app architecture** for this cryptocurrency exchange
 > The algorithm is very simple. We match a buy order with any sell order that lists sells at a price higher or equal to the price of our order. When this condition is no longer valid or the order is fully filled, we return the trades matched
    
  > Q3- How can you manage volatility problems with exchange rates ?✨
- > A3 - 
+ 
+ > A3 - I have no Anwser :D 
  
  > Q4- What should we do if there are not enough buy orders to fill sell orders, and vice versa ?✨
+ 
  > A4 - In any trading engine there can be multiple types of orders the end user has access to. Some of these include:
 	-  Limit order => That allow you to create an order with a specific price that gets filled either at the specified price better
 	-  Market order :=>  prioritize completing the order for the specified amount ignoring the price completely
