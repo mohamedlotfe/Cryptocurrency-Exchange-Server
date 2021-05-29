@@ -8,7 +8,7 @@ Users of the exchange should be able to:
 Design **the high-level app architecture** for this cryptocurrency exchange
 > Q1- What services will there be ? ✨
 
-> A1 - I will you apply (use) a Microservices Architecture
+> A1 - I will you apply (use) a Microservices Architecture [see pdf](https://github.com/mohamedlotfe/Cryptocurrency-Exchange-Server/blob/main/cryptocurrency.pdf)
     <img src="https://github.com/mohamedlotfe/Cryptocurrency-Exchange-Server/blob/main/cryptocurrency%20exchange%20Arch.png"/>
     
 > Q2- How should order matching work? ? ✨
