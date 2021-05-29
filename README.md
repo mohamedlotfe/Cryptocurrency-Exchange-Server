@@ -23,6 +23,7 @@ Design **the high-level app architecture** for this cryptocurrency exchange
  > Q4- What should we do if there are not enough buy orders to fill sell orders, and vice versa ?✨
  
  > A4 - In any trading engine there can be multiple types of orders the end user has access to. Some of these include:
+
 	-  Limit order => That allow you to create an order with a specific price that gets filled either at the specified price better
 	-  Market order :=>  prioritize completing the order for the specified amount ignoring the price completely
 	-  Stop order :=> Stop orders become active only after a specific price level is reached. Once they are activated they are automatically converted to a market or limit order
