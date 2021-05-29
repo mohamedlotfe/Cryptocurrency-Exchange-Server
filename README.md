@@ -11,6 +11,7 @@ Design **the high-level app architecture** for this cryptocurrency exchange
     <img src="https://github.com/mohamedlotfe/Cryptocurrency-Exchange-Server/blob/main/cryptocurrency%20exchange%20Arch.png"/>
     
 > Q2- How should order matching work? ? ✨
+
 > A2- I create a service to perform a matching process called ( Match Engine),
 > The algorithm is very simple. We match a buy order with any sell order that lists sells at a price higher or equal to the price of our order. When this condition is no longer valid or the order is fully filled, we return the trades matched
    
